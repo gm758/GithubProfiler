@@ -1,0 +1,15 @@
+{
+  "name": "github_profiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getUserData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "^3.1.2",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}

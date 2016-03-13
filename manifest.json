@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Github Profiler",
+  "description": "Get additional information about github users",
+  "version": "0.1",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "contentSettings",
+    "https://ajax.googleapis.com/"
+  ]
+}
